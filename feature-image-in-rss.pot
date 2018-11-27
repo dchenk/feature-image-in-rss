@@ -1,0 +1,79 @@
+# Copyright (C) 2018 
+# This file is distributed under the same license as the Feature Image in RSS plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Feature Image in RSS 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/feature-image-in-rss\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-11-27T22:18:21+00:00\n"
+"PO-Revision-Date: 2018-11-27T22:18:21+00:00\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: featured-images-for-rss-feeds\n"
+
+#. Plugin Name of the plugin
+msgid "Feature Image in RSS"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/dchenk/feature-image-in-rss"
+msgstr ""
+
+#. Description of the plugin
+msgid "Outputs images in your RSS feed to Mailchimp, Infusionsoft, Hubspot, and other services that use RSS feed data for content marketing."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/dchenk"
+msgstr ""
+
+#: feature-image-in.php:106
+msgid "Set the size of feed images"
+msgstr ""
+
+#: feature-image-in.php:128
+msgid "Width"
+msgstr ""
+
+#: feature-image-in.php:134
+msgid "Height"
+msgstr ""
+
+#: feature-image-in.php:143
+msgid "(Customize image pixel sizes in <a href=\"%1$s\">Media Options</a>, then <a href=\"%2$s\" target=_blank>Regenerate Thumbnails</a>)"
+msgstr ""
+
+#: feature-image-in.php:151
+msgid "Set alignment of feed images"
+msgstr ""
+
+#: feature-image-in.php:158
+msgid "Image Left Above Text"
+msgstr ""
+
+#: feature-image-in.php:163
+msgid "Image Centered Above Text"
+msgstr ""
+
+#: feature-image-in.php:168
+msgid "Image Left Text Wraps"
+msgstr ""
+
+#: feature-image-in.php:173
+msgid "Image Right Text Wraps"
+msgstr ""
+
+#: feature-image-in.php:180
+msgid "Set the spacing between text and feed images"
+msgstr ""
+
+#: feature-image-in.php:207
+msgid "Still not seeing images in your feed? Verify featured images are set. Clear your browser and any server caches. Using Feedburner? Be sure to also <a href=\"%s\" target=_blank>Ping Feedburner</a> so it refreshes your feed."
+msgstr ""
+
+#: feature-image-in.php:211
+msgid "To view your site’s raw RSS feed click here: <a href=\"%s/feed/\" target=_blank>/feed/</a>"
+msgstr ""
